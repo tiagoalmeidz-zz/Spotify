@@ -1,0 +1,15 @@
+current directory: /Users/tiagoalmeida/www/Github/SpotCode-Backend/path/gems/bindex-0.8.1/ext/skiptrace
+/Users/tiagoalmeida/.rvm/rubies/ruby-2.6.5/bin/ruby -I /Users/tiagoalmeida/.rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200414-26077-vqx9pa.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tiagoalmeida/www/Github/SpotCode-Backend/path/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/tiagoalmeida/www/Github/SpotCode-Backend/path/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/tiagoalmeida/www/Github/SpotCode-Backend/path/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20200414-26077-1rwmt19/skiptrace/internal
