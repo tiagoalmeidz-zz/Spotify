@@ -1,13 +1,13 @@
-import React, { Fragment } from 'react';
-import NavbarFooter from '../../components/common/navbar_footer';
+import React from "react";
+import NavbarFooter from "../../components/common/navbar_footer";
 
 const AlbumScreen = () => {
-    return(
-        <Fragment>
-            <div>Album Screen</div>
-            <NavbarFooter/>
-        </Fragment>
-    )
-}
+  return (
+    <>
+      <div>Album Screen</div>
+      <NavbarFooter />
+    </>
+  );
+};
 
 export default AlbumScreen;
