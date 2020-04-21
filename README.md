@@ -3,7 +3,7 @@
 
 Home
 
-![home](screenshots/screen1.png)
+![home](public/screenshots/screen1.png)
 
 Discovery
 
