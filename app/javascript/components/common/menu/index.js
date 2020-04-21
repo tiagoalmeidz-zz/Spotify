@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import {
   Button,
   Columns,
@@ -47,7 +47,7 @@ const Menu = () => {
   }
 
   return (
-    <>
+    <Fragment>
       <Navbar color="dark">
         <Container>
           <ColumnsFullWith className="is-mobile">
@@ -58,7 +58,7 @@ const Menu = () => {
           </ColumnsFullWith>
         </Container>
       </Navbar>
-    </>
+    </Fragment>
   );
 };
 export default Menu;

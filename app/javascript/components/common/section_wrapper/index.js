@@ -1,11 +1,13 @@
-import React from "react";
-import { Container, Section } from "react-bulma-components";
+import React from 'react';
+import { Container, Section } from 'react-bulma-components';
 
-const SectionWrapper = ({ children }) => {
-  return (
+const SectionWrapper = (props) => {
+  return(
     <Section>
-      <Container>{children}</Container>
+      <Container>
+        {props.children}
+      </Container>
     </Section>
   );
-};
+}
 export default SectionWrapper;
