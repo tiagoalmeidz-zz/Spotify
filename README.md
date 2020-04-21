@@ -14,12 +14,15 @@
 </p>
 
 <h3 align="center">Home</h3>
+
 ![home](public/screenshots/screen1.png)
   
 <h3 align="center">Discovery</h3>
+
 ![detail](public/screenshots/screen2.png)
   
 <h3 align="center">Musics</h3>
+
 ![results](public/screenshots/screen3.png)
 
 # README
