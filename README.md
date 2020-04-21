@@ -15,15 +15,14 @@
 
 <p align="center">
   <h3>Home</h3>
+</p>
   ![home](public/screenshots/screen1.png)
   
-  <h3>Discovery</h3>
+<h3 align="center">Discovery</h3>
   ![detail](public/screenshots/screen2.png)
   
-  <h3>Musics</h3>
+  <h3 align="center">Musics</h3>
   ![results](public/screenshots/screen3.png)
-</p>
-
 
 # README
 
