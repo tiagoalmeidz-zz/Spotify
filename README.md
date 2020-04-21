@@ -7,11 +7,11 @@ Home
 
 Discovery
 
-![detail](screenshots/screen2.png)
+![detail](public/screenshots/screen2.png)
 
 Musics
 
-![results](screenshots/screen3.png)
+![results](public/screenshots/screen3.png)
 
 # README
 
