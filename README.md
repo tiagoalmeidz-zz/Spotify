@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tiagoalmeida93/spotify?color=%2304D361"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tiagoalmeida93?color=%2304D361"/>
 
   <a href="#!">
     <img alt="Made by Tiago Almeida" src="https://img.shields.io/badge/made%20by-Tiago%20Almeida-%2304D361"/>
