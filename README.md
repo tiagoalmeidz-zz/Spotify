@@ -1,7 +1,5 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tiagoalmeida93/Spotify?color=%2304D361"/>
-
   <a href="#!">
     <img alt="Made by Tiago Almeida" src="https://img.shields.io/badge/made%20by-Tiago%20Almeida-%2304D361"/>
   </a>
@@ -25,27 +23,3 @@
 
 ![results](public/screenshots/screen3.png)
 
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
